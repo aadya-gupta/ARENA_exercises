@@ -5,4 +5,4 @@ This repo is my learning journey through their curriculum. I have tried to execu
 Another effort I wish to make here is to compile all the amazing sources I have been finding while studying and keep a note of my understanding for some new concepts I come across. 
 
 All in all, I am incredibly excited about the field of AI safety and hope to meaningfully contribute to it soon.
-Happy learning! =D
+\n Happy learning! =D
